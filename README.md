@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
-
+![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Hacer;Welcome+to+my+Github+profile;I'm+a+Frontend+Developer...;)
 ## 👷🏻‍♀️👋🏻 Hi there, I'm CANAN 👷🏻‍♀️👋
 
 <font color="pink"> 🐱‍🏍 I'm e-commerce extension but I find myself in software. </font>
